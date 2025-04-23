@@ -28,6 +28,6 @@ This is a fun and simple recreation of the classic Pong arcade game built with P
   1. Python 3.x
   2. No external libraries required (just uses turtle and time)
 
-📸 Screenshot<img width="791" alt="Screenshot 2025-04-23 at 12 40 47 AM" src="https://github.com/user-attachments/assets/2ca91a13-6bb9-40cc-8787-4f650e178e57" />
+📸 Screenshot
 <img width="800" alt="Screenshot 2025-04-23 at 12 41 03 AM" src="https://github.com/user-attachments/assets/660a8f50-7a01-4463-bb36-afad6d4afca3" />
 
